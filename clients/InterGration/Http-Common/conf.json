@@ -1,0 +1,11 @@
+{
+	"proto":"http",
+	"reqdata":"testing for inter, msk 1",
+	"cache":"TDMDMDMDKKFKFKFKF",
+	"appid":"1.10001",
+	"uname":"tester",
+	"usertid":"802301",
+	"secret":"AAAAA",
+	"httpprefix":"https://localhost:8188/AccService/OAuth2/",
+	"tcp":"127.0.0.1:8189"
+}

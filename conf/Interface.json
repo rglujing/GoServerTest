@@ -1,0 +1,18 @@
+{
+	"HttpPort":":8188",
+	"UrlPattern": 
+	{
+		"CreateAuCode":   "/AccService/OAuth2/CreateAuCode",
+		"RequestToken":   "/AccService/OAuth2/RequestToken",
+		"AccessToken" :   "/AccService/OAuth2/AccessToken" ,
+		"RefreshToken":   "/AccService/OAuth2/RefreshToken",
+		"InspectToken":   "/AccService/OAuth2/InspectToken",
+		"DestroyToken":   "/AccService/OAuth2/DestroyToken",
+		"RequestSession": "/AccService/OAuth2/RequestSession",
+		"SetSessionData": "/AccService/OAuth2/SetSessionData"
+	},
+	"HttpServercrt":"./HttpRoute/server.cer",
+	"HttpServerkey":"./HttpRoute/server.key",
+	"TcpPort":":8189",
+	"TokenConf":"/opt/go/src/TokenServ/conf/DataStore.json"
+}

@@ -1,0 +1,1 @@
+result is {"result":1103,"msg":"invalid bdb server list","req":"ABCQQQQQQ"}

@@ -1,0 +1,1 @@
+result is {"result":0,"AsToken":"60b9f9f7ba3fea5885d0a7157084c32b","expireln":3600,"usertid":"802301","req":"testing for inter, msk 1"}

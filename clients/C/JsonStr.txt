@@ -1,0 +1,1 @@
+CreateAuCode={"appid":"1.1001", "callbackurl":"http://www.baidu.com", "setExpire": 3600, "uname":"ZZZ", "usertid":"300001", "reqdata":{"XXX":""}}

@@ -1,0 +1,1 @@
+result is {"result":0,"AuCode":"1494875jc5b7k","req":"testing for inter, msk 1"}

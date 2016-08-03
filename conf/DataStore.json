@@ -1,0 +1,8 @@
+{
+	"BdbServers":["127.0.0.1:6379@123456", "10.15.201.55:42226@passwd"],
+	"RedisServers":["127.0.0.1:6379@", "10.15.201.55:6379@"],
+	"EtcdServers":["https://10.15.201.55:4001", "https://10.15.201.55:4002"],
+	"EtcdNode":"/tokenserv/tokendef",
+	"EtcdCrt":"./token/etcd/ca/etcd.pem",
+	"EtcdKey":"./token/etcd/ca/etcd.key"
+}
